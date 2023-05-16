@@ -81,7 +81,7 @@ const DirectLink = () => {
         <div className="flex w-full flex-wrap  ">
           <div className="w-8/12">
             <img
-              className="max-w-xl"
+              className="max-w-max"
               src={"./image/building.webp"}
               alt=""
               srcset=""
